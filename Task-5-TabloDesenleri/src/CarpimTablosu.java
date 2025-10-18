@@ -1,6 +1,6 @@
 public class CarpimTablosu {
     public static void main(String[] args) {
-        int i, j = 1; // foo, bar olarakta isimlendirilebilir (kültür)
+        int i, j; // foo, bar olarakta isimlendirilebilir (kültür)
 
         for (i = 1; i <= 10; i++)
         {

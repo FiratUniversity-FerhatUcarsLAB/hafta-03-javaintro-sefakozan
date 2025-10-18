@@ -23,13 +23,11 @@ public class HesapOzeti {
         System.out.println(" Ürün       | Miktar | Fiyat (TL) ");
         System.out.println("-".repeat(40));
 
-
         // Verileri tabloya yazdır
         for (int i = 0; i < urunler.length; i++) {
             // -10s ve -6d sola hizali şekilde sağa belirtilen sayı kadar boşluk koyar
             System.out.printf(" %-10s | %-6d | %.2f\n", urunler[i], miktar[i], fiyat[i]);
         }
-
         System.out.println("-".repeat(40));
     }
 }

@@ -1,12 +1,8 @@
-import java.awt.desktop.SystemSleepEvent;
-import java.util.Scanner;
-
 public class MilKilometreTablosu {
     public static void main(String[] args) {
         // 1 mil = 1.609 km
         double milToKm = 1.609;
         int[] milDegerleri = {1, 5, 10, 20, 50};
-
 
         System.out.println(" Mil  | Kilometre ");
         System.out.println("-".repeat(23));
@@ -16,6 +12,5 @@ public class MilKilometreTablosu {
             double kilometre = mil * milToKm;
             System.out.printf(" %-4d | %.2f%n", mil, kilometre);
         }
-
     }
 }

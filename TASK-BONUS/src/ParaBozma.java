@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 public class ParaBozma {
     public static void main(String[] args) {
-
         Scanner scanner = new Scanner(System.in);
         System.out.print("Para Miktarı: ");
         int miktar = scanner.nextInt();

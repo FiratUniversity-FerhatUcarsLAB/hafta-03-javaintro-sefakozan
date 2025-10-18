@@ -11,7 +11,6 @@ public class VucutKitleIndeksi {
                 "35.0 - 39.9 arasındaki değer 2. derece obezite (aşırı obez).\n");
 
         Scanner scanner = new Scanner(System.in);
-
         System.out.print("Boyunuz (metre): ");
         double boy = scanner.nextDouble();
 
