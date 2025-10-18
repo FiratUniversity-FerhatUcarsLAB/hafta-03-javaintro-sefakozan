@@ -4,7 +4,7 @@
 Bu projede ekstra kodlar kullanıldı.
 - Üslü Sayılar Tablosu oluşturulurken for döngüsü kullanıldı.
 - Mil-Kilometre Tablosu oluşturulurken for döngüsünün benzeri olan foreach döngüsü kullanıldı.
-- İç-içe for döngüsü kullanılarak 1'den 10'a kadar sayıların çarpımlarının tablosu oluşturuldu. Tablonun kenarları hangi sayıların çarpımının olduğunu gösteren sayı dizisi sırası eklendi.
+- Çarpım Tablosu oluşturulurken iç-içe for döngüsü kullanılarak 1'den 10'a kadar sayıların çarpımlarının tablosu oluşturuldu. Tablonun kenarları hangi sayıların çarpımının olduğunu gösteren sayı dizisi sırası eklendi.
 
 ### Üslü Sayılar Tablosu
 ![](media/UsluSayilar.png)
