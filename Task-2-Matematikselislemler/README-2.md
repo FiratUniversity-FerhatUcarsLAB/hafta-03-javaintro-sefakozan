@@ -1,5 +1,8 @@
 ```Not``` Program çıktıları (.class) **out** klasörü içerisinde yer almaktadır.
 
+### Açıklama
+- Faktoriyel projesinde, faktoriyel işlemi for döngüsü ve recursive fonksiyon olarak iki farklı şekilde yapıldı. Kullanıcıdan veri almak için Scanner kütüphanesi kullanıldı.
+
 ### İki İşlem
 ![](media/Ikislem.png)
 
@@ -7,7 +10,6 @@
 ![](media/ToplamaSeri.png)
 
 ### Faktoriyel
-Faktoriyel işlemi for ve recursive olarak iki farklı şekilde yapıldı.
 
 ![](media/Faktoriyel.png)
 
