@@ -26,6 +26,7 @@ target/
 *.bak
 
 # Önbellek ve günlük dosyaları
+*.iml
 .idea/
 .idea/dataSources/
 .idea/dataSources.local.xml
