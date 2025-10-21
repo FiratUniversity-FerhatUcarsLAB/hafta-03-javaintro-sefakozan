@@ -9,7 +9,7 @@
 ![](media/VucutKitleIndeksi.png)
 
 ### ASCII Art İsim
-![](media/AsciiArtIsim.png)
+![img.png](media/AsciiArtIsim.png)
 
 ### Para Bozma
 ![](media/ParaBozma.png)

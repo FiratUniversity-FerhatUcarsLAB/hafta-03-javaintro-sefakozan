@@ -11,7 +11,7 @@
 
 public class HesapOzeti {
     public static void main(String[] args) {
-        // Alışveriş listesi verileri
+        // Alışveriş listesi verileri dizi kullanilarak olusturuldu
         String[] urunler = {"Elma", "Süt", "Ekmek", "Gevrek", "Yumurta", "Çay"};
         int[] miktar = {5, 2, 3, 1, 30, 1};
         double[] fiyat = {50, 120, 45, 120, 150, 200};

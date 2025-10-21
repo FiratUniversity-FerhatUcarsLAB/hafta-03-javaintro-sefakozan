@@ -1,6 +1,5 @@
 public class AsciiArtIsim {
     public static void main(String[] args) {
-        // ASCII sanatını doğrudan konsola yazdır
         System.out.println("░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░");
         System.out.println("░░░███████░██████░██████░██████░░░██░░██░███████░███████░██████░██░░░░██░░░");
         System.out.println("░░░██░░░░░░██░░░░░██░░░░░██░░██░░░██░░██░██░░░██░░░░░░██░██░░██░████░░██░░░");
